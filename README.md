@@ -1,7 +1,7 @@
 <img src="https://github.com/user-attachments/assets/eee81b13-56df-4fff-94fd-7aa62cf6ce27" alt="Coding animagion" width="60%" />
 
 <h1 align="left">Hello World, I'm Fred!</h1>
-🎮 Game Developer | iOS Developer | 3D Animator  
+🎮 Game Developer | iOS Developer | 3D Generalist  
 
 <br>I'm passionate about creating meaningful games that deliver impactful experiences. I'm currently working on my own game using Unreal Engine while growing as a game developer. I also enjoy 3D animation and use Blender to bring my ideas to life. </br>
 
